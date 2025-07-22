@@ -9,5 +9,11 @@
         }
       ]
     }
-  ]
+  ],
+   "git": {
+    "deploymentEnabled": {
+      "dev": false,
+      "main": false
+    }
+  }
 }
